@@ -1,71 +1,51 @@
-<!-- Typing Banner -->
+<!-- HEADER -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#f75c7e;">Madapathi Guruprasad</span></h1>
+<h3 align="center">🚀 Tech Explorer | 💡 Lifelong Learner | 🧠 AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Madapathi+Guruprasad+👋;R+%7C+SQL+%7C+Python+Developer;Data+Visualizer+%7C+BI+Analyst+%7C+Shiny+App+Builder;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&lines=⚡+Engineer+in+the+Making;🤖+AI+%2B+ML+Explorer;🎯+Focused+on+Growth+%26+Impact" alt="Typing SVG" />
 </p>
 
-<!-- Lottie Animation -->
-<p align="center">
-  <img src="https://lottie.host/2b5080aa-8895-46d5-aab4-3c2e3bc3f4fa/ccWWDF5Eb9.json" width="200px">
-</p>
+
 
 ---
+
 ## 👨‍💻 About Me
 
-Hey there! I'm **Madapathi Guruprasad** – a passionate **R Developer**, **BI Analyst**, and **Shiny App Enthusiast**.
+🎓 Pursuing *M.Tech* at *Lovely Professional University*  
+🌱 Passionate about:
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Science, Analytics & Visualizations    
 
-I specialize in transforming raw data into stunning dashboards and meaningful insights that tell powerful stories.  
-I work with data the way artists work with color 🎨 — blending technical skill with creative flair.
+🔥 Currently building exciting projects & sharpening my skills  
+🎯 Long-term Vision: *Becoming a versatile engineer & a creative problem-solver*
 
-🧠 Skilled in **Python**, **SQL**, **Excel**, and **Software Testing** – I bring both analytical sharpness and product quality into everything I build.  
-📊 Whether it's a Shiny app, a Power BI dashboard, or automation scripts, I love making data *sing*.
-
+💬 Ask me about:
+- 📌 AI, ML, Deep Learning
+- 🛠 Python, R, Power BI, SQL, Excel, GitHub tricks
+- 📚 Productivity hacks & smart learning
 
 ---
 
-## 🚀 My Superpowers
-
-### 💼 Programming & Tools
+## 🎮 Flappy Bird Game
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,git,postgresql" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shiny-00BFC4?style=for-the-badge" />
+  <a href="https://flappybird.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Start%20Game-Click%20Here-ff69b4?style=for-the-badge&logo=game-controller&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 💡 Soft Skills
+## 🎭 Fun Facts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Communication-00C7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Teamwork-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adaptability-00CED1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leadership-32CD32?style=for-the-badge" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madapathiguruprasad&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madapathiguruprasad&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madapathiguruprasad&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎥 Projects & Dashboards (Coming Soon!)
-
-> Stay tuned for live Shiny dashboards, data viz GIFs, and more 💫
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVpNw5gnc6fWTS/giphy.gif" width="600px" />
+  <ul style="list-style-type: none; color: #f75c7e; font-size: 18px; font-weight: bold;">
+    <li>🧠 I love diving into new tech and exploring unknown horizons.</li>
+    <li>🎧 Music fuels my productivity, especially lo-fi beats while coding.</li>
+    <li>☕ Coffee is my coding companion, and bugs are my nemesis.</li>
+    <li>🛸 I'm passionate about building tech that simplifies life.</li>
+  </ul>
 </p>
 
 ---
@@ -73,12 +53,19 @@ I work with data the way artists work with color 🎨 — blending technical ski
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:madapathiguruprasad03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/madapathiguruprasad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/madapathiguruprasad/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:madapathiguruprasad03@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
+<!-- Profile Visitors Counter -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://profile-counter.glitch.me/madapathi-guruprasad/count.svg" alt="Profile Visitors" />
 </p>
+
+
+<h3 align="center">⚡ Building the future, one line of code at a time ⚡</h3>
